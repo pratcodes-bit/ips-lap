@@ -1,0 +1,2 @@
+This file was added during live demonstration.
+Purpose: To show Git add, commit, and push.
